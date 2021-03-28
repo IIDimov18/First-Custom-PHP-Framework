@@ -7,6 +7,26 @@ use app\core\Application;
 use app\controllers\SiteController;
 
 
+
+
+
+
+
+
+
+$variable=1;
+
+
+
+
+
+
+
+
+
+
+
+
 $app = new Application(dirname(__DIR__));
 
 
